@@ -1,0 +1,19 @@
+site_name: Wetboek - ZuiderVeenRP
+theme:
+  name: material
+  font: false
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: nl
+  palette:
+    primary: custom
+extra_css:
+  - stylesheets/extra.css
