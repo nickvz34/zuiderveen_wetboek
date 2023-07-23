@@ -1,12 +1,24 @@
 site_name: Wetboek - ZuiderVeenRP
+copyright: '&copy; ZuiderVeenRP 2023 - Made by: Deni & Nick'
+use_directory_urls: false
+nav:
+  - Algemeen: index.md
+  - Opiumwet: opiumwet.md
+  - Geweldsdelicten: geweldsdelicten.md
+  - Verkeersovertredingen: verkeersovertredingen.md
+  - Transport en Logistiek: transportenlogistiek.md
+  - Wet Wapens en Munitie: wetwapensenmunitie.md
+  - Identificatiewet: identificatie.md
+  - Overig: overig.md
+
 theme:
   name: material
-  font: false
+  favicon: img/favicon.ico
+  logo: img/zv_logo.png
   features:
-    - navigation.tabs
+    - navigation.path
+    - navigation.tracking
     - navigation.sections
-    - toc.integrate
-    - navigation.top
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -15,5 +27,17 @@ theme:
   language: nl
   palette:
     primary: custom
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/zuiderveen
+      name: ZuiderVeen Discord
 extra_css:
   - stylesheets/extra.css
+markdown_extensions:
+  - tables
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.tabbed:
+      alternate_style: true 
