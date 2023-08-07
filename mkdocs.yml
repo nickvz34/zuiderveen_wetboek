@@ -2,7 +2,8 @@ site_name: Wetboek - ZuiderVeenRP
 copyright: '&copy; ZuiderVeenRP 2023 - Made by: Deni & Nick'
 use_directory_urls: false
 nav:
-  - Algemeen: index.md
+  - Informatie: index.md
+  - Algemeen: algemeen.md
   - Opiumwet: opiumwet.md
   - Geweldsdelicten: geweldsdelicten.md
   - Verkeersovertredingen: verkeersovertredingen.md

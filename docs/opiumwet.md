@@ -22,7 +22,7 @@ Wiet
 | Hoeveelheid                       | Celstraf (mnd)   | Taakstraf | Boete      |
 |-----------------------------------|------------------|-----------|------------|
 |  6 - 50 zakjes                    | 10 maanden       | 30 taken  | €   5.000  |
-| 51 +    zakjes                    | 40 maanden       |           | €  10.000  |
+| 51 - 60 zakjes                    | 40 maanden       |           | €  10.000  |
 | Optellend elk 10 zakjes           | 10 maanden       |           | €   1.000  |
 
 **Harddrugs** <br>
@@ -31,7 +31,7 @@ Cocaïne, Meth en XTC
 | Hoeveelheid                       | Celstraf (mnd)   | Taakstraf | Boete      |
 |-----------------------------------|------------------|-----------|------------|
 |  6 - 50 zakjes                    | 25 maanden       |           | €   7.500  |
-| 51 +    zakjes                    | 50 maanden       |           | €  15.000  |
+| 51 - 60 zakjes                    | 50 maanden       |           | €  15.000  |
 | Optellend elk 10 zakjes           | 10 maanden       |           | €  15.000  |
 
 ## Artikel 12: Produceren narcotica
@@ -40,7 +40,7 @@ Hij die zich schuldig maakt aan het produceren van wiet, coke en/of meth zal ges
 | Hoeveelheid                       | Celstraf (mnd)   | Taakstraf | Boete      |
 |-----------------------------------|------------------|-----------|------------|
 |  6 - 50 zakjes                    | 25 maanden       |           | €   0.000  |
-| 51 +    zakjes                    | 50 maanden       |           | €   0.000  |
+| 51 - 60 zakjes                    | 50 maanden       |           | €   0.000  |
 | Optellend elk 10 zakjes           | 10 maanden       |           | €   0.000  |
 
 ## Artikel 13: Verkoop narcotica
@@ -49,5 +49,5 @@ Hij die zich schuldig maakt aan het verkopen van wiet, coke en/of meth zal gestr
 | Hoeveelheid                       | Celstraf (mnd)   | Taakstraf | Boete      |
 |-----------------------------------|------------------|-----------|------------|
 |  6 - 50 zakjes                    | 25 maanden       |           | €   0.000  |
-| 51 +    zakjes                    | 50 maanden       |           | €   0.000  |
+| 51 - 60 zakjes                    | 50 maanden       |           | €   0.000  |
 | Optellend elk 10 zakjes           | 10 maanden       |           | €   0.000  |
